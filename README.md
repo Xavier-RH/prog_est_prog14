@@ -18,5 +18,5 @@ Presenta el uso de:
 <b>Objetivo:</b> Hacer uso del Condicional if-else para hacer evaluciaciones de condiciones
 
 <p><b>Breve descripcion:</b><br>
-El programa calcula la mejor opción para las ganancias de venta de un libro en base a las ventas esperadas
+El programa calcula la mejor opción para las ganancias de venta de un libro en base a las ventas esperadas y el precio de cada libro
 </p>
